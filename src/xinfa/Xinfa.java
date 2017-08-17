@@ -6,5 +6,6 @@ public class Xinfa {
 		System.out.println("xiaowuxianggong");
 		System.out.println("xiaowuxianggong");
 		System.out.println("xiaowuxianggong");
+		System.out.println("xiaowuxianggong");
 	}
 }
